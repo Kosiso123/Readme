@@ -66,3 +66,14 @@ function searchInsights(query) {
 
 
 
+
+## How Each Component Interact With Each Other
+
+To address the requirement of well-defined state shapes and component contracts for the Insight feature, we need to outline the specific information each component will require and how they will interact with each other. Here's how we can define this for the Insight feature:
+
+**Insight Card Component:**
+**Requires:** Title, Description, Author
+**Interaction:** Displays information about each insight in a concise format.
+**Insight List Component:**
+**Requires:** List of Insights
+**Interaction:** Receives a list of insights and renders them using Insight Card components.
