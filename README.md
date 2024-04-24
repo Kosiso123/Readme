@@ -58,7 +58,7 @@ The filter and search bar components are essential features of the Insight page 
    function filterInsights(criteria) {
    // Filter insights based on criteria
    // Update UI to reflect filtered insights
-   }
+    }
 
     // Function to search insights based on entered keywords
     function searchInsights(query) {
