@@ -58,9 +58,9 @@ The filter and search bar components are essential features of the Insight page 
 
 To address the requirement of well-defined state shapes and component contracts for the Insight feature, we need to outline the specific information each component will require and how they will interact with each other. Here's how we can define this for the Insight feature:
 
-**Insight Card Component:**
-**Requires:** Title, Description, Author
-**Interaction:** Displays information about each insight in a concise fo  rmat.
-**Insight List Component:**
-**Requires:** List of Insights
-**Interaction:** Receives a list of insights and renders them using Insight Card components.
+- **Insight Card Component:**
+- **Requires:** Title, Description, Author
+- **Interaction:** Displays information about each insight in a concise fo  rmat.
+- **Insight List Component:**
+- **Requires:** List of Insights
+- **Interaction:** Receives a list of insights and renders them using Insight Card components.
