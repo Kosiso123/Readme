@@ -27,6 +27,9 @@
 - Individual Insight Page: When a user clicks on an insight card, they are taken to the individual insight page, which displays the full details of that specific insight.
 - Insight Details: This component contains all the details of the insight, such as its title, description, author, date of publication, and the content itself. Users can read through this information to learn more about the insight and its relevance to GMO crops and farming practices.
 
+  ![Screenshot_20240424-213639](https://github.com/Kosiso123/Readme/assets/150237235/40872fb2-bc73-4da9-932d-d3dbd7501c1d)
+
+
   **Filter and Search Bar Components**
 
 **Introduction:**
@@ -61,6 +64,5 @@ function searchInsights(query) {
     // Display search results to the user
 }
 
-![Screenshot_20240424-213639](https://github.com/Kosiso123/Readme/assets/150237235/40872fb2-bc73-4da9-932d-d3dbd7501c1d)
 
 
