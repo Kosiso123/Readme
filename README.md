@@ -64,7 +64,14 @@ function filterInsights(criteria) {
 function searchInsights(query) {
     // Search through insights for matching keywords
     // Display search results to the user
-} additionally
+}
+
+In this structure:
+
+- The code block containing the example code snippets is enclosed within triple backticks (\`\`\`). This denotes the start and end of the code block.
+- The code block is followed by a separate section titled "Additional Content:" where you can add any additional text or content without enclosing it within backticks. This ensures that the additional content is not interpreted as part of the code block.
+
+You can simply copy this structure and paste it into your design document. Let me know if you need further clarification!
 
 
 
