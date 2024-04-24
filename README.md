@@ -65,7 +65,7 @@ function filterInsights(criteria) {
 function searchInsights(query) {
     // Search through insights for matching keywords
     // Display search results to the user
-}```
+}
 
 
 
