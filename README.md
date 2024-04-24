@@ -60,11 +60,11 @@ The filter and search bar components are essential features of the Insight page 
      // Update UI to reflect filtered insights
      }
 
-    // Function to search insights based on entered keywords
-    function searchInsights(query) {
-    // Search through insights for matching keywords
-    // Display search results to the user
-    }
+       // Function to search insights based on entered keywords
+       function searchInsights(query) {
+       // Search through insights for matching keywords
+      // Display search results to the user
+      }
 
 
 
