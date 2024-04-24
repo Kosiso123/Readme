@@ -61,4 +61,6 @@ function searchInsights(query) {
     // Display search results to the user
 }
 
+![Screenshot_20240424-213639](https://github.com/Kosiso123/Readme/assets/150237235/40872fb2-bc73-4da9-932d-d3dbd7501c1d)
+
 
