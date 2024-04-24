@@ -62,10 +62,11 @@ function filterInsights(criteria) {
 function searchInsights(query) {
     // Search through insights for matching keywords
     // Display search results to the user
-}
+}.```
 
 
 
+    
 
 ## How Each Component Interact With Each Other
 
@@ -73,7 +74,7 @@ To address the requirement of well-defined state shapes and component contracts 
 
 **Insight Card Component:**
 **Requires:** Title, Description, Author
-**Interaction:** Displays information about each insight in a concise format.
+**Interaction:** Displays information about each insight in a concise fo  rmat.
 **Insight List Component:**
 **Requires:** List of Insights
 **Interaction:** Receives a list of insights and renders them using Insight Card components.
