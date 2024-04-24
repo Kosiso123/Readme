@@ -1,2 +1,2 @@
 # FRONTEND LOW LEVEL DESIGN DOCUMENT
-*Insight Feature
+* Insight Feature
