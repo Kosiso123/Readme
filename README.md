@@ -62,7 +62,7 @@ Function to search insights based on entered keywords
 function searchInsights(query) {
  //Search through insights for matching keywords
    //  Display search results to the user
-}.
+}. ```
 
 
 
